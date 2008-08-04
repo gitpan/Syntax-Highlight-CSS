@@ -1,0 +1,19 @@
+---
+name: Syntax-Highlight-CSS
+version: 0.0101
+author:
+  - 'Zoffix Znet <zoffix@cpan.org>'
+abstract: highlight CSS syntax
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+build_requires:
+  Test::More: 0
+provides:
+  Syntax::Highlight::CSS:
+    file: lib/Syntax/Highlight/CSS.pm
+    version: 0.0101
+generated_by: Module::Build version 0.2808
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
