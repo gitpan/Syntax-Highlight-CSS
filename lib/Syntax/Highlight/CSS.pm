@@ -3,7 +3,7 @@ package Syntax::Highlight::CSS;
 use warnings;
 use strict;
 
-our $VERSION = '0.0101';
+our $VERSION = '0.0102';
 
 # # # 
 # # # 
@@ -165,6 +165,8 @@ sub _line_numbers {
 
 1;
 __END__
+
+=encoding utf8
 
 =head1 NAME
 

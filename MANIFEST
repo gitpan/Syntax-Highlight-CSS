@@ -2,12 +2,14 @@ Build.PL
 Changes
 MANIFEST
 README
+LICENSE
 lib/Syntax/Highlight/CSS.pm
 examples/css.pl
-t/kwalitee.t
 t/00-load.t
 t/01-parse.t
-t/pod-coverage.t
-t/pod.t
+xt/pod-coverage.t
+xt/pod.t
+xt/kwalitee.t
 Makefile.PL
 META.yml
+META.json
